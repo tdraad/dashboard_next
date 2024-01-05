@@ -40,7 +40,7 @@ export default async function Page({
       <div className="mt-5 flex w-full justify-center">
         <Pagination totalPages={totalPages} />
       </div>
-      <p>my update w env</p>
+      <p>my updated proc env</p>
     </div>
   );
 }
