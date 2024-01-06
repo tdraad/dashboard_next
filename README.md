@@ -6,7 +6,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 "# dashboard_next" 
 
 
-git add README.md
-git commit -m "My first commit"
-git branch -M main
-git push -u origin main
+##git add README.md
+##git commit -m "My first commit"
+##git branch -M main
+##git push -u origin main
