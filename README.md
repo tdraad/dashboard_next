@@ -8,5 +8,5 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 git add README.md
 git commit -m "My first commit"
-git branch -M master
-git push -u origin master
+git branch -M main
+git push -u origin main
